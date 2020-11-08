@@ -6,3 +6,4 @@
 - 182 Duplicate Emails
 - 1089 Duplicate Zeros
 - 196 Delete Duplicate Emails
+- 1047 Remove All Adjacent Duplicates In String
