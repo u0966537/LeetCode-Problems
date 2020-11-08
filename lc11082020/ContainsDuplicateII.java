@@ -11,6 +11,12 @@ public class ContainsDuplicateII {
             return false;
         }
         
+        /**
+         * when current index is bigger than k, then remove it from the set
+         * since we're only looking for difference between i and j at most k.
+         * 
+         * set.add() returns false when it already exists inside of the set, then return true.
+         */
         Set<Integer> set = new HashSet<Integer>();
         for (int i = 0; i < nums.length; i++) {
             if (i > k){
