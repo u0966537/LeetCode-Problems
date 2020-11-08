@@ -5,7 +5,7 @@ public class RemoveDuplicatesFromSortedArray {
         int res = 0;
         
 		for(int i = 1; i < nums.length; i++) {
-			if (nums[i] != nums[res]) {
+			if (nums[res] != nums[i]) {
 				nums[++res] = nums[i];
 			}
 		}
