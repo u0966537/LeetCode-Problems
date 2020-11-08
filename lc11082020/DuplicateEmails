@@ -1,0 +1,4 @@
+# Write your MySQL query statement below
+# two different Ids have the same email:
+select distinct(a.Email) from Person a, Person b 
+where a.Id != b.Id and a.Email = b.Email;
