@@ -9,3 +9,4 @@
 - 1047 Remove All Adjacent Duplicates In String
 - 26 Remove Duplicates from Sorted Array
 - 80 Remove Duplicates from Sorted Array II
+- 83 Remove Duplicates from Sorted List
