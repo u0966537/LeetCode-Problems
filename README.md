@@ -7,3 +7,4 @@
 - 1089 Duplicate Zeros
 - 196 Delete Duplicate Emails
 - 1047 Remove All Adjacent Duplicates In String
+- 26 Remove Duplicates from Sorted Array
