@@ -11,3 +11,4 @@
 - 80 Remove Duplicates from Sorted Array II
 - 83 Remove Duplicates from Sorted List
 - 674 Longest Continuous Increasing Subsequence
+- 925 Long Pressed Name
