@@ -15,3 +15,6 @@
 - 111 Minimum Depth of Binary Tree
 - 596 Classes More Than 5 Students
 - 290 Word Pattern
+
+## 11/09/2020
+- 172 Factorial Trailing Zeroes
