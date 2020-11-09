@@ -13,3 +13,4 @@
 - 674 Longest Continuous Increasing Subsequence
 - 925 Long Pressed Name
 - 111 Minimum Depth of Binary Tree
+- 596 Classes More Than 5 Students
