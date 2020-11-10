@@ -8,6 +8,7 @@ Starting from 11/08/2020, I will upload and record my daily LeetCode challenges.
 |------------	|----------	|
 | [11/08/2020](https://github.com/u0966537/LeetCode-Problems#11082020) 	|       14 	|
 | [11/09/2020](https://github.com/u0966537/LeetCode-Problems#11092020) 	|       12 	|
+| 2 days 	|       26 problems 	|
 
 ### 11/08/2020
 - 203 Remove Linked List Elements
