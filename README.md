@@ -2,7 +2,7 @@
 
 In the past, I have done 312 LeetCode problems.  
  
-Starting from 11/08/2020, I will review old problems and solve more problems. I will upload and record my daily LeetCode challenges.
+Starting from 11/08/2020, I will review old problems and solve more problems. I will upload and record my daily LeetCode challenges here.
 
 ## Statistics
 
