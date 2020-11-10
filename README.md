@@ -1,10 +1,8 @@
 # Daily LeetCode Challenges
 
-A place to store and record my LeetCode challenges code. 
+Starting from 11/08/2020, I will upload and record my daily LeetCode challenges. 
 
 ## Statistics
-
-Starting from 11/08/2020, I will upload and count my daily LeetCode challenges. 
 
 | Date       	| Problems 	|
 |------------	|----------	|
