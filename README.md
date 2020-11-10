@@ -20,3 +20,4 @@
 - 172 Factorial Trailing Zeroes
 - 507 Perfect Number
 - 176 Second Highest Salary
+- 414 Third Maximum Number
