@@ -4,15 +4,12 @@
 
 Starting from 11/08/2020, I will upload and count my daily leetcode challenges. 
 
-
 | Date       	| Problems 	|
 |------------	|----------	|
 | 11/08/2020 	|       14 	|
 | 11/09/2020 	|       12 	|
 
-
-
-## 11/08/2020
+### 11/08/2020
 - 203 Remove Linked List Elements
 - 219 Contains Duplicate II
 - 182 Duplicate Emails
@@ -28,7 +25,7 @@ Starting from 11/08/2020, I will upload and count my daily leetcode challenges.
 - 596 Classes More Than 5 Students
 - 290 Word Pattern
 
-## 11/09/2020
+### 11/09/2020
 - 172 Factorial Trailing Zeroes
 - 507 Perfect Number
 - 176 Second Highest Salary
