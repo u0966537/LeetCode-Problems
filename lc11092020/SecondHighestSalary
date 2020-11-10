@@ -1,1 +1,5 @@
 # Write your MySQL query statement below
+# find the biggest, and find the second biggest that is smaller than the biggest. 
+select max(Salary) SecondHighestSalary
+from Employee
+where Salary < (select max(Salary) from Employee)

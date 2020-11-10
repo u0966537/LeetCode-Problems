@@ -21,3 +21,4 @@
 - 507 Perfect Number
 - 176 Second Highest Salary
 - 414 Third Maximum Number
+- 665 Non-decreasing Array
