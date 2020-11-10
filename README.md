@@ -24,3 +24,4 @@
 - 665 Non-decreasing Array
 - 434 Number of Segments in a String
 - 1037 Valid Boomerang
+- 1346 Check If N and Its Double Exist
