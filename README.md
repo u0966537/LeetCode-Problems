@@ -5,10 +5,10 @@
 Starting from 11/08/2020, I will upload and count my daily leetcode challenges. 
 
 
-| Date | Count |
-| ------ | ------ |
-| 11/08/2020 | 14 |
-| 11/09/2020 |12 |
+| Date       	| Problems 	|
+|------------	|----------	|
+| 11/08/2020 	|       14 	|
+| 11/09/2020 	|       12 	|
 
 
 
