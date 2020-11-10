@@ -18,3 +18,4 @@
 
 ## 11/09/2020
 - 172 Factorial Trailing Zeroes
+- 507 Perfect Number
