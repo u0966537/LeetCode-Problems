@@ -19,3 +19,4 @@
 ## 11/09/2020
 - 172 Factorial Trailing Zeroes
 - 507 Perfect Number
+- 176 Second Highest Salary
