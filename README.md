@@ -1,6 +1,7 @@
 # Daily LeetCode Challenges
 
-Starting from 11/08/2020, I will upload and record my daily LeetCode challenges. 
+In the past, I have done 312 LeetCode problems. 
+Starting from 11/08/2020, I will review old problems and solve more problems. I will upload and record my daily LeetCode challenges.
 
 ## Statistics
 
