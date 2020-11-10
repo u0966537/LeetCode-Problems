@@ -26,3 +26,4 @@
 - 1037 Valid Boomerang
 - 1346 Check If N and Its Double Exist
 - 844 Backspace String Compare
+- 67 Add Binary
