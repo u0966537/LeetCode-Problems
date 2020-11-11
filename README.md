@@ -49,3 +49,4 @@ Starting from 11/08/2020, I will review old problems and solve more problems. I 
 - 88 Merge Sorted Array
 - 69 Sqrt(x)
 - 191 Number of 1 Bits
+- 195 Tenth Line
