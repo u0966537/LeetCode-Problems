@@ -10,6 +10,7 @@ Starting from 11/08/2020, I will review old problems and solve more problems. I 
 |------------	|----------	|
 | [11/08/2020](https://github.com/u0966537/LeetCode-Problems#11082020) 	|       14 	|
 | [11/09/2020](https://github.com/u0966537/LeetCode-Problems#11092020) 	|       12 	|
+| [11/10/2020](https://github.com/u0966537/LeetCode-Problems#11102020) 	|       - 	|
 | 2 days 	|       26 problems 	|
 
 ### 11/08/2020
@@ -41,3 +42,6 @@ Starting from 11/08/2020, I will review old problems and solve more problems. I 
 - 67 Add Binary
 - 53 Maximum Subarray
 - 383 Ransom Note
+
+### 11/10/2020
+- 100 Same Tree
