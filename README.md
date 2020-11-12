@@ -61,4 +61,5 @@ Starting from 11/08/2020, I will review old problems and solve more problems. I 
 - 3 Longest Substring Without Repeating Characters*
 - 4 Median of Two Sorted Arrays*
 - 1480 Running Sum of 1d Array
+- 1470 Shuffle the Array
 
