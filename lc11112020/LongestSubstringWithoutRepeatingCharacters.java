@@ -4,8 +4,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 public class LongestSubstringWithoutRepeatingCharacters {
-
-	public  int lengthOfLongestSubstring(String s) {
+	public int lengthOfLongestSubstring(String s) {
 
 		if (s == null || s.length() == 0)
 			return 0;
