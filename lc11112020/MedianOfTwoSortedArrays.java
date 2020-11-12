@@ -11,12 +11,19 @@ public class MedianOfTwoSortedArrays {
     
     public int findKth(int[] nums1, int[] nums2, int k) {
         int m = nums1.length, n = nums2.length;
-        /*
-         * 如果nums1的长度等于0的话， 那么
-         */
-        if (m == 0) return nums2[k - 1];
-        if (n == 0) return nums1[k - 1];
-        if (k == 1) return Math.min(nums1[0], nums2[0]);
+        
+        if (m == 0) {
+        	return nums2[k - 1];
+        }
+
+        if (n == 0) {
+        	return nums1[k - 1];
+        }
+        
+        if (k == 1) {
+        	return Math.min(nums1[0], nums2[0]);
+        }
+        
         int i = Math.min(m, k / 2), j = Math.min(n, k / 2);
         if (nums1[i - 1] > nums2[j - 1]) {
             return findKth(nums1, Arrays.copyOfRange(nums2, j, n), k - j);
