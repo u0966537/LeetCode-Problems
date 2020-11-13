@@ -72,5 +72,6 @@ Starting from 11/08/2020, I will review old problems and solve more problems. I 
 - 1108 Defanging an IP Address
 - 1512 Number of Good Pairs
 - 771 Jewels and Stones
+- 1342 Number of Steps to Reduce a Number to Zero
 
 
