@@ -70,5 +70,6 @@ Starting from 11/08/2020, I will review old problems and solve more problems. I 
 ### 11/13/2020
 - 1431 Kids With the Greatest Number of Candies
 - 1108 Defanging an IP Address
+- 1512 Number of Good Pairs
 
 
