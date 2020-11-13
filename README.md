@@ -12,7 +12,8 @@ Starting from 11/08/2020, I will review old problems and solve more problems. I 
 | [11/09/2020](https://github.com/u0966537/LeetCode-Problems#11092020) 	|       12 	|
 | [11/10/2020](https://github.com/u0966537/LeetCode-Problems#11102020) 	|       9 	|
 | [11/11/2020](https://github.com/u0966537/LeetCode-Problems#11112020) 	|       6 	|
-| 4 days 	|       41 problems 	|
+| [11/12/2020](https://github.com/u0966537/LeetCode-Problems#11122020) 	|       0 	|
+| 5 days 	|       41 problems 	|
 
 ### 11/08/2020
 - 203 Remove Linked List Elements
@@ -62,4 +63,7 @@ Starting from 11/08/2020, I will review old problems and solve more problems. I 
 - 4 Median of Two Sorted Arrays*
 - 1480 Running Sum of 1d Array
 - 1470 Shuffle the Array
+
+### 11/12/2020
+
 
