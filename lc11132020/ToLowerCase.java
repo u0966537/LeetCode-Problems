@@ -9,7 +9,7 @@ public class ToLowerCase {
         for(int i = 0; i < str.length(); i++) {
         	char current = str.charAt(i);
         	if(current >= 65 && current <= 90) {
-        		sb.append((current + 32));
+        		sb.append((char)(current + 32));
         	}
         	else {
         		sb.append(current);
