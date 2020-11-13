@@ -13,6 +13,7 @@ Starting from 11/08/2020, I will review old problems and solve more problems. I 
 | [11/10/2020](https://github.com/u0966537/LeetCode-Problems#11102020) 	|       9 	|
 | [11/11/2020](https://github.com/u0966537/LeetCode-Problems#11112020) 	|       6 	|
 | [11/12/2020](https://github.com/u0966537/LeetCode-Problems#11122020) 	|       0 	|
+| [11/13/2020](https://github.com/u0966537/LeetCode-Problems#11132020) 	|       - 	|
 | 5 days 	|       41 problems 	|
 
 ### 11/08/2020
@@ -65,5 +66,7 @@ Starting from 11/08/2020, I will review old problems and solve more problems. I 
 - 1470 Shuffle the Array
 
 ### 11/12/2020
+
+### 11/13/2020
 
 
