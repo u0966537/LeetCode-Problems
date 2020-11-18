@@ -94,3 +94,4 @@ Starting from 11/08/2020, I will review old problems and solve more problems. I 
 - 112 Path Sum
 - 118 Pascal's Triangle
 - 136 Single Number
+- 342 Power of Four
