@@ -18,7 +18,8 @@ Starting from 11/08/2020, I will review old problems and solve more problems. I 
 | [11/15/2020](https://github.com/u0966537/LeetCode-Problems#11152020) 	|       0 	|
 | [11/16/2020](https://github.com/u0966537/LeetCode-Problems#11162020) 	|       3 	|
 | [11/17/2020](https://github.com/u0966537/LeetCode-Problems#11172020) 	|       7 	|
-| 10 days 	|       57 problems 	|
+| [11/18/2020](https://github.com/u0966537/LeetCode-Problems#11182020) 	|       - 	|
+| 11 days 	|       57 problems 	|
 
 ### 11/08/2020
 - 203 Remove Linked List Elements
@@ -97,3 +98,5 @@ Starting from 11/08/2020, I will review old problems and solve more problems. I 
 - 342 Power of Four
 - 349 Intersection of Two Arrays
 - 5 Longest Palindromic Substring
+
+### 11/18/2020
