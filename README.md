@@ -101,3 +101,4 @@ Starting from 11/08/2020, I will review old problems and solve more problems. I 
 
 ### 11/18/2020
 - 7 Reverse Integer
+- 9 Palindrome Number
