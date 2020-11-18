@@ -103,3 +103,4 @@ Starting from 11/08/2020, I will review old problems and solve more problems. I 
 - 7 Reverse Integer
 - 9 Palindrome Number
 - 13 Roman to Integer
+- 14 Longest Common Prefix

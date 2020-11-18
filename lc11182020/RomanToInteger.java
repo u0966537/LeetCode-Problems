@@ -30,11 +30,11 @@ public class RomanToInteger {
 
 			else if (current == 'X') {
 				if (next == 'L' || next == 'C') {
-					result -= 2;
+					result -= 20;
 				}
 			} else if (current == 'C') {
 				if (next == 'D' || next == 'M') {
-					result -= 2;
+					result -= 200;
 				}
 			}
 
