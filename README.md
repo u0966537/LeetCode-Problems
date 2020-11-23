@@ -18,8 +18,12 @@ Starting from 11/08/2020, I will review old problems and solve more problems. I 
 | [11/15/2020](https://github.com/u0966537/LeetCode-Problems#11152020) 	|       0 	|
 | [11/16/2020](https://github.com/u0966537/LeetCode-Problems#11162020) 	|       3 	|
 | [11/17/2020](https://github.com/u0966537/LeetCode-Problems#11172020) 	|       7 	|
-| [11/18/2020](https://github.com/u0966537/LeetCode-Problems#11182020) 	|       - 	|
-| 11 days 	|       57 problems 	|
+| [11/18/2020](https://github.com/u0966537/LeetCode-Problems#11182020) 	|       5 	|
+| [11/19/2020](https://github.com/u0966537/LeetCode-Problems#11192020) 	|       - 	|
+| [11/20/2020](https://github.com/u0966537/LeetCode-Problems#11202020) 	|       - 	|
+| [11/21/2020](https://github.com/u0966537/LeetCode-Problems#11212020) 	|       - 	|
+| [11/22/2020](https://github.com/u0966537/LeetCode-Problems#11222020) 	|       - 	|
+| 15 days 	|       62 problems 	|
 
 ### 11/08/2020
 - 203 Remove Linked List Elements
@@ -104,3 +108,12 @@ Starting from 11/08/2020, I will review old problems and solve more problems. I 
 - 9 Palindrome Number
 - 13 Roman to Integer
 - 14 Longest Common Prefix
+- 6 ZigZag Conversion
+
+### 11/19/2020
+
+### 11/20/2020
+
+### 11/21/2020
+
+### 11/22/2020
