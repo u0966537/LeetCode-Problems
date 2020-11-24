@@ -12,19 +12,13 @@ Starting from 11/08/2020, I will review old problems and solve more problems. I 
 | [11/09/2020](https://github.com/u0966537/LeetCode-Problems#11092020) 	|       12 	|
 | [11/10/2020](https://github.com/u0966537/LeetCode-Problems#11102020) 	|       9 	|
 | [11/11/2020](https://github.com/u0966537/LeetCode-Problems#11112020) 	|       6 	|
-| [11/12/2020](https://github.com/u0966537/LeetCode-Problems#11122020) 	|       0 	|
 | [11/13/2020](https://github.com/u0966537/LeetCode-Problems#11132020) 	|       6 	|
-| [11/14/2020](https://github.com/u0966537/LeetCode-Problems#11142020) 	|       0 	|
-| [11/15/2020](https://github.com/u0966537/LeetCode-Problems#11152020) 	|       0 	|
 | [11/16/2020](https://github.com/u0966537/LeetCode-Problems#11162020) 	|       3 	|
 | [11/17/2020](https://github.com/u0966537/LeetCode-Problems#11172020) 	|       7 	|
 | [11/18/2020](https://github.com/u0966537/LeetCode-Problems#11182020) 	|       5 	|
-| [11/19/2020](https://github.com/u0966537/LeetCode-Problems#11192020) 	|       0 	|
-| [11/20/2020](https://github.com/u0966537/LeetCode-Problems#11202020) 	|       0 	|
-| [11/21/2020](https://github.com/u0966537/LeetCode-Problems#11212020) 	|       0 	|
 | [11/22/2020](https://github.com/u0966537/LeetCode-Problems#11222020) 	|       7 	|
-| [11/23/2020](https://github.com/u0966537/LeetCode-Problems#11232020) 	|       7 	|
-| 16 days 	|       69 problems 	|
+| [11/23/2020](https://github.com/u0966537/LeetCode-Problems#11232020) 	|       - 	|
+| 10 days 	|       69 problems 	|
 
 ### 11/08/2020
 - 203 Remove Linked List Elements
@@ -75,8 +69,6 @@ Starting from 11/08/2020, I will review old problems and solve more problems. I 
 - 1480 Running Sum of 1d Array
 - 1470 Shuffle the Array
 
-### 11/12/2020
-
 ### 11/13/2020
 - 1431 Kids With the Greatest Number of Candies
 - 1108 Defanging an IP Address
@@ -85,15 +77,10 @@ Starting from 11/08/2020, I will review old problems and solve more problems. I 
 - 1342 Number of Steps to Reduce a Number to Zero
 - 709 To Lower Case
 
-### 11/14/2020
-
-### 11/15/2020
-
 ### 11/16/2020
 - 70 Climbing Stairs
 - 139 Word Break*
 - 134 Gas Station*
-
 
 ### 11/17/2020
 - 101 Symmetric Tree
@@ -110,12 +97,6 @@ Starting from 11/08/2020, I will review old problems and solve more problems. I 
 - 13 Roman to Integer
 - 14 Longest Common Prefix
 - 6 ZigZag Conversion
-
-### 11/19/2020
-
-### 11/20/2020
-
-### 11/21/2020
 
 ### 11/22/2020
 - 11 Container With Most Water
