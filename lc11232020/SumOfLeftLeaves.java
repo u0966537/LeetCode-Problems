@@ -13,11 +13,18 @@ public class SumOfLeftLeaves {
 
 		while (!stk.isEmpty()) {
 			TreeNode curr = stk.pop();
+			
+			// check left when left is not null
 			if (curr.left != null) {
 				stk.add(curr.left);
-				if (curr.left.left == null && curr.left.right == null)
+				
+				// check if the current node's left and right are empty.
+				if (curr.left.left == null && curr.left.right == null) {
 					sum += curr.left.val;
+				}
 			}
+			
+			// check right when right is not null
 			if (curr.right != null) {
 				stk.add(curr.right);
 			}
