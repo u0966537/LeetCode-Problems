@@ -17,8 +17,9 @@ Starting from 11/08/2020, I will review old problems and solve more problems. I 
 | [11/17/2020](https://github.com/u0966537/LeetCode-Problems#11172020) 	|       7 	|
 | [11/18/2020](https://github.com/u0966537/LeetCode-Problems#11182020) 	|       5 	|
 | [11/22/2020](https://github.com/u0966537/LeetCode-Problems#11222020) 	|       7 	|
-| [11/23/2020](https://github.com/u0966537/LeetCode-Problems#11232020) 	|       - 	|
-| 10 days 	|       69 problems 	|
+| [11/23/2020](https://github.com/u0966537/LeetCode-Problems#11232020) 	|       3 	|
+| [11/25/2020](https://github.com/u0966537/LeetCode-Problems#11252020) 	|       - 	|
+| 11 days 	|       72 problems 	|
 
 ### 11/08/2020
 - 203 Remove Linked List Elements
@@ -111,3 +112,5 @@ Starting from 11/08/2020, I will review old problems and solve more problems. I 
 - 409 Longest Palindrome
 - 404 Sum of Left Leaves
 - 530 Minimum Absolute Difference in BST
+
+### 11/25/2020s
