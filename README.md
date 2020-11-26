@@ -116,3 +116,4 @@ Starting from 11/08/2020, I will review old problems and solve more problems. I 
 ### 11/25/2020
 - 134 Gas Station
 - 598 Range Addition II
+- 599 Minimum Index Sum of Two Lists
