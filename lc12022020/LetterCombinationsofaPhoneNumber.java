@@ -39,4 +39,34 @@ public class LetterCombinationsofaPhoneNumber {
 		}
 		return result;
 	}	
+	
+	
+	public List<String> letterCombinations2(String digits) {
+        List<String> res = new ArrayList<>();
+        if (digits.length() == 0) {
+        	return res;
+        }
+        
+        String[] keys = new String[] {"", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
+        
+        // DFS
+        combination(digits, new StringBuilder(), 0, keys, res);
+        return res;
+    }
+    
+    private void combination(String digits, StringBuilder sb, int index, String[] keys, List<String> res) {
+    	
+    	// base case.
+        if (index >= digits.length()) {
+            res.add(sb.toString());
+            return;
+        }
+
+        String key = keys[digits.charAt(index) - '0' - 1];
+        // loop through every key's character, 
+        for(int i = 0; i < key.length(); i++) {
+            combination(digits, sb.append(key.charAt(i)), index + 1, keys, res);
+            sb.deleteCharAt(sb.length()-1); // remove the added character.
+        }
+    }
 }
