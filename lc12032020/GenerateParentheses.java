@@ -26,5 +26,4 @@ public class GenerateParentheses {
 		if (close < open)
 			backtrack(result, cur + ")", open, close + 1, max);
 	}
-
 }
