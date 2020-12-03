@@ -19,8 +19,8 @@ Starting from 11/08/2020, I will review old problems and solve more problems. I 
 | [11/22/2020](https://github.com/u0966537/LeetCode-Problems#11222020) 	|       7 	|
 | [11/23/2020](https://github.com/u0966537/LeetCode-Problems#11232020) 	|       3 	|
 | [11/25/2020](https://github.com/u0966537/LeetCode-Problems#11252020) 	|       6 	|
-| [12/02/2020](https://github.com/u0966537/LeetCode-Problems#12022020) 	|       - 	|
-| 12 days 	|       78 problems 	|
+| [12/02/2020](https://github.com/u0966537/LeetCode-Problems#12022020) 	|       7 	|
+| 12 days 	|       85 problems 	|
 
 ### 11/08/2020
 - 203 Remove Linked List Elements
