@@ -133,4 +133,4 @@ Starting from 11/08/2020, I will review old problems and solve more problems. I 
 - 18 4Sum
 
 ### 12/03/2020
-
+- 22 Generate Parentheses
