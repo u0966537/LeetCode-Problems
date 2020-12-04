@@ -140,3 +140,4 @@ Starting from 11/08/2020, I will review old problems and solve more problems. I 
 - 31 Next Permutation
 - 33 Search in Rotated Sorted Array
 - 36 Valid Sudoku
+- 34 Find First and Last Position of Element in Sorted Array
