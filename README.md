@@ -143,3 +143,4 @@ Starting from 11/08/2020, I will review old problems and solve more problems. I 
 - 34 Find First and Last Position of Element in Sorted Array
 - 48 Rotate Image
 - 20 Valid Parentheses
+- 21 Merge Two Sorted Lists 
