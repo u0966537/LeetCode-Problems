@@ -23,10 +23,10 @@ public class MaximumProductofThreeNumbers {
 				max3 = max2;
 				max2 = max1;
 				max1 = n;
-			} else if (n >= max2) { // n lies betweeen max1 and max2
+			} else if (n >= max2) { 
 				max3 = max2;
 				max2 = n;
-			} else if (n >= max3) { // n lies betwen max2 and max3
+			} else if (n >= max3) {
 				max3 = n;
 			}
 		}
