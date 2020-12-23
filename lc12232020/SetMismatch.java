@@ -18,7 +18,6 @@ public class SetMismatch {
         	// if the hash is already negative, then we found duplicate num.
             if (nums[Math.abs(n) - 1] < 0) {
                 dup = Math.abs(n);
-                break;
             }
             else
                 nums[Math.abs(n) - 1] *= -1;
@@ -31,7 +30,5 @@ public class SetMismatch {
                 missing = i + 1;
         }
         return new int[]{dup, missing};
-    	
-        
     }
 }
