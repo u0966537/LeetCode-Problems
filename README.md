@@ -157,3 +157,4 @@ Starting from 11/08/2020, I will review old problems and solve more problems. I 
 - 876 Middle of the Linked List
 
 ### 12/23/2020
+- 628 Maximum Product of Three Numbers
