@@ -164,4 +164,5 @@ Starting from 11/08/2020, I will review old problems and solve more problems. I 
 - 744 Find Smallest Letter Greater Than Target
 
 ### 12/23/2020
+- 704 Binary Search
    
