@@ -176,3 +176,4 @@ Starting from 11/08/2020, I will review old problems and solve more problems. I 
 - 39 Combination Sum
 - 40 Combination Sum II
 - 43 Multiply Strings
+- 50 Pow(x, n)
