@@ -24,8 +24,9 @@ Starting from 11/08/2020, I will review old problems and solve more problems. I 
 | [12/04/2020](https://github.com/u0966537/LeetCode-Problems#12042020) 	|       3   |
 | [12/18/2020](https://github.com/u0966537/LeetCode-Problems#12182020) 	|       1   |
 | [12/23/2020](https://github.com/u0966537/LeetCode-Problems#12232020) 	|       4   |
-| [12/24/2020](https://github.com/u0966537/LeetCode-Problems#12242020) 	|       -   |
-| 15 days 	|       104 problems 	|
+| [12/24/2020](https://github.com/u0966537/LeetCode-Problems#12242020) 	|       3   |
+| [12/25/2020](https://github.com/u0966537/LeetCode-Problems#12252020) 	|       -    |
+| 18 days 	|       107 problems 	|
 
 ### 11/08/2020
 - 203 Remove Linked List Elements
@@ -163,7 +164,9 @@ Starting from 11/08/2020, I will review old problems and solve more problems. I 
 - 645 Set Mismatch
 - 744 Find Smallest Letter Greater Than Target
 
-### 12/23/2020
+### 12/24/2020
 - 704 Binary Search
 - 830 Positions of Large Groups
 - 942 DI String Match
+
+### 12/25/2020
