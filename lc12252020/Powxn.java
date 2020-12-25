@@ -17,4 +17,23 @@ public class Powxn{
     	if((n & 1) == 0) return y * y;
     	return y * y * x;
     }
+    
+    public double myPow2(double x, int n){
+        if(n==0) return 1;
+        
+        double res = 1;
+        long abs = Math.abs((long)n);
+    
+        // 每个数字一直除以2 最后都会等于1， 那么1就会把x的值赋予给res。 
+        while(abs > 0){
+            if(abs % 2 == 1){
+                res *= x;
+            }
+            x *= x;
+            abs /= 2;
+        }
+        
+        if(n<0) return 1.0/ res;
+        return res;
+    }    
 }
