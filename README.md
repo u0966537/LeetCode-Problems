@@ -25,8 +25,9 @@ Starting from 11/08/2020, I will review old problems and solve more problems. I 
 | [12/18/2020](https://github.com/u0966537/LeetCode-Problems#12182020) 	|       1   |
 | [12/23/2020](https://github.com/u0966537/LeetCode-Problems#12232020) 	|       4   |
 | [12/24/2020](https://github.com/u0966537/LeetCode-Problems#12242020) 	|       3   |
-| [12/25/2020](https://github.com/u0966537/LeetCode-Problems#12252020) 	|       -    |
-| 18 days 	|       107 problems 	|
+| [12/25/2020](https://github.com/u0966537/LeetCode-Problems#12252020) 	|       7   |
+| [12/26/2020](https://github.com/u0966537/LeetCode-Problems#12262020) 	|       -   |
+| 19 days 	|       114 problems 	|
 
 ### 11/08/2020
 - 203 Remove Linked List Elements
@@ -177,3 +178,7 @@ Starting from 11/08/2020, I will review old problems and solve more problems. I 
 - 40 Combination Sum II
 - 43 Multiply Strings
 - 50 Pow(x, n)
+
+
+### 12/26/2020
+
