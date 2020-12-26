@@ -26,8 +26,9 @@ Starting from 11/08/2020, I will review old problems and solve more problems. I 
 | [12/23/2020](https://github.com/u0966537/LeetCode-Problems#12232020) 	|       4   |
 | [12/24/2020](https://github.com/u0966537/LeetCode-Problems#12242020) 	|       3   |
 | [12/25/2020](https://github.com/u0966537/LeetCode-Problems#12252020) 	|       7   |
-| [12/26/2020](https://github.com/u0966537/LeetCode-Problems#12262020) 	|       -   |
-| 19 days 	|       114 problems 	|
+| [12/26/2020](https://github.com/u0966537/LeetCode-Problems#12262020) 	|      15  |
+| [12/27/2020](https://github.com/u0966537/LeetCode-Problems#12272020) 	|       -    |
+| 20 days 	|       129 problems 	|
 
 ### 11/08/2020
 - 203 Remove Linked List Elements
@@ -195,3 +196,6 @@ Starting from 11/08/2020, I will review old problems and solve more problems. I 
 - 82 Remove Duplicates from Sorted List II
 - 98 Validate Binary Search Tree
 - 79 Word Search
+- 81 Search in Rotated Sorted Array II
+
+### 12/27/2020
