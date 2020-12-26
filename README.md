@@ -192,3 +192,6 @@ Starting from 11/08/2020, I will review old problems and solve more problems. I 
 - 61 Rotate List
 - 77 Combinations
 - 78 Subsets
+- 82 Remove Duplicates from Sorted List II
+- 98 Validate Binary Search Tree
+- 79 Word Search
