@@ -1,0 +1,32 @@
+package lc12262020;
+
+public class RotateList{
+	public ListNode rotateRight(ListNode head, int k) {
+    	if(head == null || head.next == null) return head;
+    	
+    	// get Length
+    	ListNode index = head;
+    	int count = 1;
+    	while(index.next != null){
+    		index = index.next;
+    		count++;	
+    	}
+    	
+    	index.next = head;
+    	for(int i = 1; i < count - (k % count); i++){
+    		head = head.next;
+    	} 
+    	ListNode res = head.next;
+    	head.next = null;
+    	
+    	return res;
+    }
+    
+     public class ListNode {
+     	int val;
+ 	 	ListNode next;
+	 	ListNode() {}
+	 	ListNode(int val) { this.val = val; }
+	 	ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ 	 }
+}

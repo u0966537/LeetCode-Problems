@@ -189,3 +189,4 @@ Starting from 11/08/2020, I will review old problems and solve more problems. I 
 - 59 Spiral Matrix II
 - 64 Minimum Path Sum
 - 71 Simplify Path
+- 61 Rotate List
