@@ -211,3 +211,4 @@ Starting from 11/08/2020, I will review old problems and solve more problems. I 
 - 75 Sort Colors
 - 74 Search a 2D Matrix
 - 73 Set Matrix Zeroes
+- 86 Partition List
