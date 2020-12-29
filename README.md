@@ -218,3 +218,4 @@ Starting from 11/08/2020, I will review old problems and solve more problems. I 
 
 ### 12/28/2020
 - 150 Evaluate Reverse Polish Notation
+- 147 Insertion Sort List
