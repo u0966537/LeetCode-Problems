@@ -29,8 +29,9 @@ Starting from 11/08/2020, I will review old problems and solve more problems. I 
 | [12/26/2020](https://github.com/u0966537/LeetCode-Problems#12262020) 	|      15  |
 | [12/27/2020](https://github.com/u0966537/LeetCode-Problems#12272020) 	|       15    |
 | [12/28/2020](https://github.com/u0966537/LeetCode-Problems#12282020) 	|       2    |
-| [12/29/2020](https://github.com/u0966537/LeetCode-Problems#12292020) 	|       -    |
-| 22 days 	|       146 problems 	|
+| [12/29/2020](https://github.com/u0966537/LeetCode-Problems#12292020) 	|       6    |
+| [01/21/2020](https://github.com/u0966537/LeetCode-Problems#01212020) 	|       1    |
+| 23 days 	|       153 problems 	|
 
 ### 11/08/2020
 - 203 Remove Linked List Elements
@@ -228,3 +229,6 @@ Starting from 11/08/2020, I will review old problems and solve more problems. I 
 - 187 Repeated DNA Sequences
 - 194 Transpose File
 - 104 Maximum Depth of Binary Tree
+
+### 01/21/2021
+- 161 One Edit Distance
