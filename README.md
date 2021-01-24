@@ -237,3 +237,4 @@ Starting from 11/08/2020, I will review old problems and solve more problems. I 
 - 346 Moving Average from Data Stream
 - 716 Max Stack
 - 1683 Invalid Tweets
+- 586 Customer Placing the Largest Number of Orders
