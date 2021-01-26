@@ -241,3 +241,4 @@ Starting from 11/08/2020, I will review old problems and solve more problems. I 
 - 251 Flatten 2D Vector
 - 580 Count Student Number in Departments
 - 323 Number of Connected Components in an Undirected Graph
+- 490 The Maze
